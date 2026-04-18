@@ -1,0 +1,19 @@
+# Hyperparameters for CIFAR-10 ViT experiments
+# Targets: 30-50 epochs in under 2 hours on Colab T4/A100
+# small  ~2.5M params → ~30 min on T4 for 40 epochs
+# medium ~6.7M params → ~75 min on T4 for 40 epochs
+
+hparams:
+  small:
+    batch_size: 256
+    lr: 3.0e-4
+    weight_decay: 0.05
+    epochs: 40
+    warmup_epochs: 5
+
+  medium:
+    batch_size: 128
+    lr: 2.0e-4
+    weight_decay: 0.05
+    epochs: 30
+    warmup_epochs: 5
