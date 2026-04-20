@@ -1,0 +1,272 @@
+[
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 1,
+    "train_loss": 1.9622,
+    "val_loss": 1.9059,
+    "val_accuracy": 0.3316
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 2,
+    "train_loss": 1.7857,
+    "val_loss": 1.6558,
+    "val_accuracy": 0.4615
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 3,
+    "train_loss": 1.6178,
+    "val_loss": 1.6339,
+    "val_accuracy": 0.4869
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 4,
+    "train_loss": 1.5254,
+    "val_loss": 1.4698,
+    "val_accuracy": 0.552
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 5,
+    "train_loss": 1.4594,
+    "val_loss": 1.4175,
+    "val_accuracy": 0.5855
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 6,
+    "train_loss": 1.3921,
+    "val_loss": 1.3548,
+    "val_accuracy": 0.6083
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 7,
+    "train_loss": 1.3391,
+    "val_loss": 1.271,
+    "val_accuracy": 0.6508
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 8,
+    "train_loss": 1.3022,
+    "val_loss": 1.2206,
+    "val_accuracy": 0.6682
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 9,
+    "train_loss": 1.259,
+    "val_loss": 1.21,
+    "val_accuracy": 0.6783
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 10,
+    "train_loss": 1.2218,
+    "val_loss": 1.162,
+    "val_accuracy": 0.7019
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 11,
+    "train_loss": 1.1914,
+    "val_loss": 1.1512,
+    "val_accuracy": 0.7047
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 12,
+    "train_loss": 1.1532,
+    "val_loss": 1.1316,
+    "val_accuracy": 0.7158
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 13,
+    "train_loss": 1.1247,
+    "val_loss": 1.0851,
+    "val_accuracy": 0.7341
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 14,
+    "train_loss": 1.0968,
+    "val_loss": 1.0825,
+    "val_accuracy": 0.7345
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 15,
+    "train_loss": 1.0719,
+    "val_loss": 1.0741,
+    "val_accuracy": 0.7389
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 16,
+    "train_loss": 1.0442,
+    "val_loss": 1.0195,
+    "val_accuracy": 0.7663
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 17,
+    "train_loss": 1.0183,
+    "val_loss": 1.0293,
+    "val_accuracy": 0.7629
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 18,
+    "train_loss": 0.9878,
+    "val_loss": 1.0044,
+    "val_accuracy": 0.7763
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 19,
+    "train_loss": 0.9692,
+    "val_loss": 0.9676,
+    "val_accuracy": 0.7917
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 20,
+    "train_loss": 0.9475,
+    "val_loss": 0.988,
+    "val_accuracy": 0.7829
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 21,
+    "train_loss": 0.9241,
+    "val_loss": 0.9515,
+    "val_accuracy": 0.7995
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 22,
+    "train_loss": 0.9035,
+    "val_loss": 0.9447,
+    "val_accuracy": 0.8027
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 23,
+    "train_loss": 0.887,
+    "val_loss": 0.9448,
+    "val_accuracy": 0.8044
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 24,
+    "train_loss": 0.8682,
+    "val_loss": 0.9387,
+    "val_accuracy": 0.8071
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 25,
+    "train_loss": 0.85,
+    "val_loss": 0.9298,
+    "val_accuracy": 0.813
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 26,
+    "train_loss": 0.8364,
+    "val_loss": 0.927,
+    "val_accuracy": 0.8157
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 27,
+    "train_loss": 0.826,
+    "val_loss": 0.9157,
+    "val_accuracy": 0.8162
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 28,
+    "train_loss": 0.8152,
+    "val_loss": 0.916,
+    "val_accuracy": 0.8188
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 29,
+    "train_loss": 0.8105,
+    "val_loss": 0.9141,
+    "val_accuracy": 0.818
+  },
+  {
+    "experiment": "standard_medium_20260418_060146",
+    "model_type": "standard",
+    "model_size": "medium",
+    "epoch": 30,
+    "train_loss": 0.8105,
+    "val_loss": 0.9138,
+    "val_accuracy": 0.8178
+  }
+]
